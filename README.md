@@ -1,6 +1,8 @@
 # Awesome Online Courses
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+A list of online courses in various subjects. This repository will be updated indefinitely with more courses and newer versions of existing courses.
+
 Check out these repositories for a more exhaustive list of curated resources:
 * [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome DL](https://github.com/ChristosChristofidis/awesome-deep-learning)
