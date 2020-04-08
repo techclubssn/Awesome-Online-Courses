@@ -1,4 +1,5 @@
 # Awesome Online Courses
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Machine/Deep/Reinforcement Learning
 1. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - Fei-Fei Li, Stanford University
