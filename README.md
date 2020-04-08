@@ -42,3 +42,4 @@ Check out these repositories for a more exhaustive list of curated resources:
 5. [CS223A: Robotics](https://see.stanford.edu/Course/CS223A) - Oussama Khatib, Stanford University
 6. **[Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) - Wolfram Burgard, University of Freiburg**
 7. **[edX: Hello (Real) World with ROS - Robot Operating System](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/course/) - TU Delft**
+8. [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-for-flying-robots) - TU Munich
