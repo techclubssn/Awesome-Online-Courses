@@ -15,7 +15,8 @@
     * Another subset of this course that specializes in Natural Language Prcessing (NLP):
 
       [Udemy: Deep Learning & NLP A-Z](https://www.udemy.com/course/computer-vision-a-z/)
-8. [Coursera: Reinforcement Learning](https://www.coursera.org/specializations/reinforcement-learning) - University of Alberta
+8. [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) - 3blue1brown, YouTube 
+9. [Coursera: Reinforcement Learning](https://www.coursera.org/specializations/reinforcement-learning) - University of Alberta
 
 ## Computer Vision
 1. [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) - Georgia Tech
