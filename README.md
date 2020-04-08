@@ -35,9 +35,10 @@ Check out these repositories for a more exhaustive list of curated resources:
 4. **[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - Fei-Fei Li, Stanford University**
 
 ## Robotics
-1. [Coursera: Robotics](https://www.coursera.org/specializations/robotics) - University of Pennsylvania
-2. **[edX: Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-and-control-part-i) - Seoul National University**
-3. **[edX: Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-and-control-part-ii) - Seoul National University**
-4. [CS223A: Robotics](https://see.stanford.edu/Course/CS223A) - Oussama Khatib, Stanford University
-5. **[Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) - Wolfram Burgard, University of Freiburg**
-6. **[edX: Hello (Real) World with ROS - Robot Operating System](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/course/) - TU Delft**
+1. **[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Gilbert Strang, MIT OCW**
+2. [Coursera: Robotics](https://www.coursera.org/specializations/robotics) - University of Pennsylvania
+3. **[edX: Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-and-control-part-i) - Seoul National University**
+4. **[edX: Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-and-control-part-ii) - Seoul National University**
+5. [CS223A: Robotics](https://see.stanford.edu/Course/CS223A) - Oussama Khatib, Stanford University
+6. **[Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) - Wolfram Burgard, University of Freiburg**
+7. **[edX: Hello (Real) World with ROS - Robot Operating System](https://courses.edx.org/courses/course-v1:DelftX+ROS1x+3T2018/course/) - TU Delft**
